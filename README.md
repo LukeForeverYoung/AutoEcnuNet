@@ -5,7 +5,10 @@
 ## 使用方法
 
 登录
-> dotnet AutoEcnuNet.dll login [username] [password]
-
+```
+dotnet AutoEcnuNet.dll login [username] [password]
+```
 登出
-> dotnet AutoEcnuNet.dll logout
+```
+dotnet AutoEcnuNet.dll logout
+```
