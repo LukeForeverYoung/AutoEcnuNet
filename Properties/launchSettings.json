@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutoEcnuNet": {
+      "commandName": "Project",
+      "commandLineArgs": "--logout"
+    }
+  }
+}
